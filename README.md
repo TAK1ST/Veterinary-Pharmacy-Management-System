@@ -1,1 +1,1 @@
-# Veterinary-drugs
+#Veterinary Pharmacy Management  System
